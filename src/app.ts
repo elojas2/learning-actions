@@ -1,2 +1,2 @@
-import test from "./unusedFunction"; 
+import test from "./unusedFunction.ts"; 
 console.log(test());
